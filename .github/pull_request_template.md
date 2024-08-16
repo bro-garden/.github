@@ -1,15 +1,21 @@
 # Description
 
-<!-- Add a description to the problem and the solution -->
+## Motivation
 
-## Screenshots/Videos
+<!--- Why is this change required? -->
+<!--- What problem does it solve? -->
 
-# Checklist
+## Solution
+
+<!--- Write a clear description of your proposed changes. If possible, include supporting resources such as images or links. -->
+
+## Checklist
 
 - [ ] I added/updated unit tests for these changes
 - [ ] I tested manually these changes
-- [ ] I updated clickup and linked my PR to my ticket.
+- [ ] I updated the issue tracker and linked my PR to my ticket.
 
-# Steps to reproduce
+## Steps to reproduce
 
-<!-- Add the steps needed to reproduce the PR -->
+<!--- Please describe in detail how you tested your changes. -->
+<!-- Add screenshots that support your manual tests  -->
